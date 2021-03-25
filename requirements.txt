@@ -1,0 +1,5 @@
+geopandas
+rtree
+osmnx
+pyshp
+shapely
